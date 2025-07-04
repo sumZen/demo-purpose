@@ -1,7 +1,3 @@
 # demo-purpose
 just created not to do stuff.
-
-
-- i'm going to learn a
-- i'm going to learn b
-- i'm going to learn c
+- i'm going to learn javascript , node.js , sql and nosql.
